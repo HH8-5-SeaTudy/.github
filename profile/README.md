@@ -109,6 +109,6 @@
 
 
 ## 🛠 아키텍쳐
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e51ea70d-b575-4aa7-a5e0-81a9204236c9/BE_architecture-%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5-2_%281%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220927T100010Z&X-Amz-Expires=86400&X-Amz-Signature=fee81edcc4803e94b766efd1f23c213f53995c99b2a9d87b89b75b867ab01937&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22BE_architecture-%25E1%2584%2591%25E1%2585%25A6%25E1%2584%258B%25E1%2585%25B5%25E1%2584%258C%25E1%2585%25B5-2%2520%281%29.jpg%22&x-id=GetObject">
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/07928ae0-08cc-454d-9acd-69fb35152349/BE_architecture-%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5-2_%282%29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221002%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221002T181908Z&X-Amz-Expires=86400&X-Amz-Signature=29a665d16151d9152d2984e0b19f4acdd743204d6c4a4970a63b5efbc1ecda1f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22BE_architecture-%25E1%2584%2591%25E1%2585%25A6%25E1%2584%258B%25E1%2585%25B5%25E1%2584%258C%25E1%2585%25B5-2%2520%282%29.jpg%22&x-id=GetObject">
 
 
