@@ -1,5 +1,10 @@
 # SeaTudy
 
+
+<img src="https://springblog.s3.ap-northeast-2.amazonaws.com/954x528.png" width="300" height="166">
+
+<br>
+
 ## 🗓 프로젝트 기간
 2022/8/26 - 2022/10/7(6주간)
 
