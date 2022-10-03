@@ -30,7 +30,7 @@
     <td align="center"><a href="https://github.com/leejpsd" target='_blank'>
     <img src="https://springblog.s3.ap-northeast-2.amazonaws.com/jungpyo.png" width="120" height="120"></a></td>
     <td align="center"><a href="https://github.com/eunyechan" target='_blank'>
-    <img src="https://springblog.s3.ap-northeast-2.amazonaws.com/yechan.png" width="120" height="120"></a></td>
+    <img src="https://springblog.s3.ap-northeast-2.amazonaws.com/yechan1.png" width="120" height="120"></a></td>
     <td align="center"><a href="https://github.com/peppermintt0504" target='_blank'>
     <img src="https://springblog.s3.ap-northeast-2.amazonaws.com/donggun.png" width="120" height="120"></a></td>
 </tr>
